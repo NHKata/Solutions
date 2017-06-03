@@ -1,7 +1,7 @@
 module Bowling_Scores where
 
 -- f0,f1 | f01 --> points/pins multiplier factor
--- r0,r1,r2 --> rowling points/pins
+-- r0,r1,r2 --> roling points/pins
 frame_step (f0,f1) [10,0] = (f0*10,(f1+1,2))
 frame_step (f0,f1) [r0,r1]
   | r0+r1 == 10 = (f0*r0+f1*r1,(2,1))

@@ -1,0 +1,6 @@
+[package]
+name = "bowling_scores"
+version = "0.1.0"
+authors = ["rsantos <darkskull2@iol.pt>"]
+
+[dependencies]

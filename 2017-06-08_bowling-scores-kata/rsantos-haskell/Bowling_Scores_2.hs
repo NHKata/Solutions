@@ -22,7 +22,6 @@ concatFilter a [10,0] = a ++ [10]
 concatFilter a b = (++) a b
 
 
-
 -- TESTS --
 
 t1 :: Bool

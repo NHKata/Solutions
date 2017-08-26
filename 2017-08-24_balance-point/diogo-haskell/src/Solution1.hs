@@ -1,4 +1,4 @@
-module Lib where
+module Solution1 where
 
 import Prelude hiding (head)
 import Data.List hiding (head)

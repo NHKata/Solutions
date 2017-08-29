@@ -1,0 +1,12 @@
+c:\users\jabailey\documents\visual studio 2015\Projects\Kata2\Kata2\bin\Debug\Kata2.exe.config
+c:\users\jabailey\documents\visual studio 2015\Projects\Kata2\Kata2\bin\Debug\Kata2.exe
+c:\users\jabailey\documents\visual studio 2015\Projects\Kata2\Kata2\bin\Debug\Kata2.pdb
+c:\users\jabailey\documents\visual studio 2015\Projects\Kata2\Kata2\obj\Debug\Kata2.csprojResolveAssemblyReference.cache
+c:\users\jabailey\documents\visual studio 2015\Projects\Kata2\Kata2\obj\Debug\Kata2.exe
+c:\users\jabailey\documents\visual studio 2015\Projects\Kata2\Kata2\obj\Debug\Kata2.pdb
+C:\Users\jabailey\Documents\Visual Studio 2015\Projects\jbailey-c#\Kata2\bin\Debug\Kata2.exe.config
+C:\Users\jabailey\Documents\Visual Studio 2015\Projects\jbailey-c#\Kata2\obj\Debug\Kata2.exe
+C:\Users\jabailey\Documents\Visual Studio 2015\Projects\jbailey-c#\Kata2\obj\Debug\Kata2.pdb
+C:\Users\jabailey\Documents\Visual Studio 2015\Projects\jbailey-c#\Kata2\bin\Debug\Kata2.exe
+C:\Users\jabailey\Documents\Visual Studio 2015\Projects\jbailey-c#\Kata2\bin\Debug\Kata2.pdb
+C:\Users\jabailey\Documents\Visual Studio 2015\Projects\jbailey-c#\Kata2\obj\Debug\Kata2.csprojResolveAssemblyReference.cache
